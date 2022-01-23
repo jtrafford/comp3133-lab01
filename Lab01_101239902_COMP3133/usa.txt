@@ -1,0 +1,12 @@
+Country: United States, Year: 1952, Population: 157553000
+Country: United States, Year: 1957, Population: 171984000
+Country: United States, Year: 1962, Population: 186538000
+Country: United States, Year: 1967, Population: 198712000
+Country: United States, Year: 1972, Population: 209896000
+Country: United States, Year: 1977, Population: 220239000
+Country: United States, Year: 1982, Population: 232187835
+Country: United States, Year: 1987, Population: 242803533
+Country: United States, Year: 1992, Population: 256894189
+Country: United States, Year: 1997, Population: 272911760
+Country: United States, Year: 2002, Population: 287675526
+Country: United States, Year: 2007, Population: 301139947

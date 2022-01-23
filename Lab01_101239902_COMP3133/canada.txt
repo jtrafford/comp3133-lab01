@@ -1,0 +1,12 @@
+Country: Canada, Year: 1952, Population: 14785584
+Country: Canada, Year: 1957, Population: 17010154
+Country: Canada, Year: 1962, Population: 18985849
+Country: Canada, Year: 1967, Population: 20819767
+Country: Canada, Year: 1972, Population: 22284500
+Country: Canada, Year: 1977, Population: 23796400
+Country: Canada, Year: 1982, Population: 25201900
+Country: Canada, Year: 1987, Population: 26549700
+Country: Canada, Year: 1992, Population: 28523502
+Country: Canada, Year: 1997, Population: 30305843
+Country: Canada, Year: 2002, Population: 31902268
+Country: Canada, Year: 2007, Population: 33390141
